@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.todo-input{
+  margin: 10px;
+}
+
+.todo-row {
+  margin: 10px;
+} 
+
+.complete {
+  background-color: beige;
+}
